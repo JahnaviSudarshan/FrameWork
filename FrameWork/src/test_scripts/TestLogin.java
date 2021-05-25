@@ -52,7 +52,6 @@ public class TestLogin extends Base_Test {
 		fp.view_click();
 		Thread.sleep(3000);
 		fp.delete_click();
-		System.out.println("1");
 
 	}
 	
